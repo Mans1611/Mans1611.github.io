@@ -1,9 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.50d0e77a.css",
-    "main.js": "/static/js/main.43c3b147.js",
+    "main.css": "/static/css/main.f69f7e91.css",
+    "main.js": "/static/js/main.0f6c8a24.js",
     "static/media/expect2.png": "/static/media/expect2.a2e5fc9107f21cf21c34.png",
+    "static/media/designprocess.jpg": "/static/media/designprocess.ccdab5f83b4565deac45.jpg",
+    "static/media/coding.png": "/static/media/coding.333237a0488fff77a60b.png",
     "static/media/ecommerce.png": "/static/media/ecommerce.0ecf34a5ec0226de10db.png",
+    "static/media/manstrans.jpg": "/static/media/manstrans.f2b92ed7aa778ae6fcc8.jpg",
     "static/media/matlabcer.png": "/static/media/matlabcer.70f0f4be07ed812437a8.png",
     "static/media/pl.jpg": "/static/media/pl.b76728e06cea93527b1e.jpg",
     "static/media/messi.jpeg": "/static/media/messi.c3e5fab8d2082f5c0ba6.jpeg",
@@ -31,13 +34,12 @@
     "static/media/form1.png": "/static/media/form1.2ac711b61f6c1778d242.png",
     "static/media/portfolio.png": "/static/media/portfolio.cfd5fae51063393f34b8.png",
     "static/media/chat.jpg": "/static/media/chat.14b9cd67d24bad96dfb8.jpg",
-    "static/media/coffee.png": "/static/media/coffee.f4ea38a44b6704e53961.png",
     "static/media/figma6.png": "/static/media/figma6.9afaaf41867661b9a1ac.png",
     "static/media/port1.png": "/static/media/port1.812ec61cfd222579a1b3.png",
-    "static/media/designcloud.png": "/static/media/designcloud.2d0d8149f90ee12028fd.png",
     "static/media/port3.png": "/static/media/port3.35cfb82a7a8c66b97a38.png",
     "static/media/expect3.png": "/static/media/expect3.d15f45aa66b127a91c43.png",
     "static/media/port2.png": "/static/media/port2.ce4d959c9106078707d6.png",
+    "static/media/Mans-gray-removebg-preview.png": "/static/media/Mans-gray-removebg-preview.ba0501ee54f7eb3e3c35.png",
     "static/media/figma4.png": "/static/media/figma4.9a1aa761f935c32898d7.png",
     "static/media/port4horz.png": "/static/media/port4horz.987357a345fc6cd70ccd.png",
     "static/media/port6horz.png": "/static/media/port6horz.987357a345fc6cd70ccd.png",
@@ -54,11 +56,11 @@
     "static/media/mongo.png": "/static/media/mongo.2178943141ba7e7fae4e.png",
     "static/media/typescript.png": "/static/media/typescript.af108db04a54d784da9b.png",
     "index.html": "/index.html",
-    "main.50d0e77a.css.map": "/static/css/main.50d0e77a.css.map",
-    "main.43c3b147.js.map": "/static/js/main.43c3b147.js.map"
+    "main.f69f7e91.css.map": "/static/css/main.f69f7e91.css.map",
+    "main.0f6c8a24.js.map": "/static/js/main.0f6c8a24.js.map"
   },
   "entrypoints": [
-    "static/css/main.50d0e77a.css",
-    "static/js/main.43c3b147.js"
+    "static/css/main.f69f7e91.css",
+    "static/js/main.0f6c8a24.js"
   ]
 }

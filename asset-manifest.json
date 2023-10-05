@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.f69f7e91.css",
-    "main.js": "/static/js/main.a0b3828b.js",
+    "main.css": "/static/css/main.313e2aa0.css",
+    "main.js": "/static/js/main.f69dcb68.js",
     "static/media/expect2.png": "/static/media/expect2.a2e5fc9107f21cf21c34.png",
     "static/media/designprocess.jpg": "/static/media/designprocess.ccdab5f83b4565deac45.jpg",
     "static/media/coding.png": "/static/media/coding.333237a0488fff77a60b.png",
@@ -34,6 +34,7 @@
     "static/media/form1.png": "/static/media/form1.2ac711b61f6c1778d242.png",
     "static/media/portfolio.png": "/static/media/portfolio.cfd5fae51063393f34b8.png",
     "static/media/chat.jpg": "/static/media/chat.14b9cd67d24bad96dfb8.jpg",
+    "static/media/cloud.jpg": "/static/media/cloud.98000fafbde2847f9919.jpg",
     "static/media/figma6.png": "/static/media/figma6.9afaaf41867661b9a1ac.png",
     "static/media/port1.png": "/static/media/port1.812ec61cfd222579a1b3.png",
     "static/media/port3.png": "/static/media/port3.35cfb82a7a8c66b97a38.png",
@@ -51,16 +52,19 @@
     "static/media/express.png": "/static/media/express.5f5fabfe5b418a64abe3.png",
     "static/media/sql.png": "/static/media/sql.96af83e68e3b32fb2dd7.png",
     "static/media/node.png": "/static/media/node.e328955d6bbbf3ebc72b.png",
+    "static/media/cloudicon.png": "/static/media/cloudicon.8a710dc854fd6a0af260.png",
     "static/media/development.png": "/static/media/development.f9d169e80e84e333a6d1.png",
+    "static/media/linked.png": "/static/media/linked.46cc16b2b76947589708.png",
+    "static/media/whatsapp.png": "/static/media/whatsapp.1faeca381940557b2103.png",
     "static/media/ux.png": "/static/media/ux.ffa3e0dd754dc923e50b.png",
     "static/media/mongo.png": "/static/media/mongo.2178943141ba7e7fae4e.png",
     "static/media/typescript.png": "/static/media/typescript.af108db04a54d784da9b.png",
     "index.html": "/index.html",
-    "main.f69f7e91.css.map": "/static/css/main.f69f7e91.css.map",
-    "main.a0b3828b.js.map": "/static/js/main.a0b3828b.js.map"
+    "main.313e2aa0.css.map": "/static/css/main.313e2aa0.css.map",
+    "main.f69dcb68.js.map": "/static/js/main.f69dcb68.js.map"
   },
   "entrypoints": [
-    "static/css/main.f69f7e91.css",
-    "static/js/main.a0b3828b.js"
+    "static/css/main.313e2aa0.css",
+    "static/js/main.f69dcb68.js"
   ]
 }

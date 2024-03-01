@@ -1,10 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.13906766.css",
-    "main.js": "/static/js/main.8b384b5b.js",
+    "main.css": "/static/css/main.c7492033.css",
+    "main.js": "/static/js/main.6dcc33c4.js",
     "static/media/expect2.png": "/static/media/expect2.a2e5fc9107f21cf21c34.png",
-    "static/media/designprocess.jpg": "/static/media/designprocess.ccdab5f83b4565deac45.jpg",
-    "static/media/coding.png": "/static/media/coding.333237a0488fff77a60b.png",
     "static/media/ecommerce.png": "/static/media/ecommerce.0ecf34a5ec0226de10db.png",
     "static/media/matlabcer.png": "/static/media/matlabcer.70f0f4be07ed812437a8.png",
     "static/media/pl.jpg": "/static/media/pl.b76728e06cea93527b1e.jpg",
@@ -34,7 +32,6 @@
     "static/media/form1.png": "/static/media/form1.2ac711b61f6c1778d242.png",
     "static/media/portfolio.png": "/static/media/portfolio.cfd5fae51063393f34b8.png",
     "static/media/chat.jpg": "/static/media/chat.14b9cd67d24bad96dfb8.jpg",
-    "static/media/cloud.jpg": "/static/media/cloud.98000fafbde2847f9919.jpg",
     "static/media/figma6.png": "/static/media/figma6.9afaaf41867661b9a1ac.png",
     "static/media/port1.png": "/static/media/port1.812ec61cfd222579a1b3.png",
     "static/media/port3.png": "/static/media/port3.35cfb82a7a8c66b97a38.png",
@@ -55,6 +52,7 @@
     "static/media/aws.png": "/static/media/aws.8034699cee6f44fc24dd.png",
     "static/media/sql.png": "/static/media/sql.96af83e68e3b32fb2dd7.png",
     "static/media/node.png": "/static/media/node.e328955d6bbbf3ebc72b.png",
+    "static/media/githyb.png": "/static/media/githyb.86ab8508a07b3de9f612.png",
     "static/media/cloudicon.png": "/static/media/cloudicon.8a710dc854fd6a0af260.png",
     "static/media/development.png": "/static/media/development.f9d169e80e84e333a6d1.png",
     "static/media/linked.png": "/static/media/linked.46cc16b2b76947589708.png",
@@ -64,11 +62,11 @@
     "static/media/mongo.png": "/static/media/mongo.2178943141ba7e7fae4e.png",
     "static/media/typescript.png": "/static/media/typescript.af108db04a54d784da9b.png",
     "index.html": "/index.html",
-    "main.13906766.css.map": "/static/css/main.13906766.css.map",
-    "main.8b384b5b.js.map": "/static/js/main.8b384b5b.js.map"
+    "main.c7492033.css.map": "/static/css/main.c7492033.css.map",
+    "main.6dcc33c4.js.map": "/static/js/main.6dcc33c4.js.map"
   },
   "entrypoints": [
-    "static/css/main.13906766.css",
-    "static/js/main.8b384b5b.js"
+    "static/css/main.c7492033.css",
+    "static/js/main.6dcc33c4.js"
   ]
 }
